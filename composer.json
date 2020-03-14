@@ -1,5 +1,5 @@
 {
-    "name": "phpcws/yii2-hejiang-storage",
+    "name": "phpcws/yii2-phpcws-storage",
     "description": "A file uploading extension for Yii2",
     "type": "library",
     "require": {

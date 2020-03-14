@@ -1,0 +1,25 @@
+{
+    "name": "phpcws/yii2-storage",
+    "description": "image uploadfile",
+    "type": "project",
+    "require-dev": {
+        "complete": "1.0"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+	"php": ">=5.4.0",
+        "yiisoft/yii2": "~2.0.5",
+    }
+    "authors": [
+        {
+            "name": "phpcws",
+            "email": "phpcws@phpcws.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Hejiang\\Storage\\": "lib/"
+        }
+    }
+}

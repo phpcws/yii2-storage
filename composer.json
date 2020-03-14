@@ -1,15 +1,10 @@
 {
-    "name": "phpcws/yii2-storage",
-    "description": "image uploadfile",
-    "type": "project",
-    "require-dev": {
-        "complete": "1.0"
-    },
-    "license": "MIT",
-    "minimum-stability": "dev",
+    "name": "phpcws/yii2-hejiang-storage",
+    "description": "A file uploading extension for Yii2",
+    "type": "library",
     "require": {
-	"php": ">=5.4.0",
-        "yiisoft/yii2": "~2.0.5"
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "~2.0.31"
     },
     "authors": [
         {
